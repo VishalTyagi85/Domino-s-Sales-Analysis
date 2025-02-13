@@ -94,7 +94,7 @@ The analysis involves:
 ---
 
 ## 🖼 Power BI Dashboard Preview  
-![Domino’s Sales Dashboard](Dashboard.png)
+![Domino’s Sales Dashboard](https://ibb.co/pv833sFk)
 ## 🖼 Power BI Dashboard Preview  
 ![Domino’s Sales Dashboard](Dashboard_2.png)
 ## 🏅 Connect with Me
