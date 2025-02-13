@@ -94,10 +94,9 @@ The analysis involves:
 ---
 
 ## 🖼 Power BI Dashboard Preview  
-## 🖼 Power BI Dashboard Preview  
 ![Domino’s Sales Dashboard](https://i.postimg.cc/1tRJvWSV/Dashboard.png)
-## 🖼 Power BI Dashboard Preview  
-![Domino’s Sales Dashboard](Dashboard_2.png)
+
+![Domino’s Sales Dashboard](https://i.postimg.cc/VsCDDbQR/Dashboard-2.png)
 ## 🏅 Connect with Me
 If you liked this project or have any suggestions, feel free to connect!  
 📧 Email: tyagivishal8583@gmail.com  
