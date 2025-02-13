@@ -97,5 +97,9 @@ The analysis involves:
 ![Domino’s Sales Dashboard](Dashboard.png)
 ## 🖼 Power BI Dashboard Preview  
 ![Domino’s Sales Dashboard](Dashboard_2.png)
+## 🏅 Connect with Me
+If you liked this project or have any suggestions, feel free to connect!  
+📧 Email: tyagivishal8583@gmail.com  
+🔗 LinkedIn: [Vishal Tyagi](https://www.linkedin.com/in/vishal-tyagi00/)  
 
 
